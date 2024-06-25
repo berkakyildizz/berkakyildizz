@@ -32,6 +32,12 @@
     <a href="https://github.com/berkakyildizz?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
     <a href="https://github.com/berkakyildizz?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
     <a href="https://github.com/berkakyildizz?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a> 
-    <a href="https://github.com/berkakyildizz?tab=repositories&language=gpt" target="_blank"><img alt="gpt" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a> 
 
+</p>
+
+<p>
+    <a href="https://github.com/berkakyildizz?tab=repositories&language=gpt" target="_blank"><img alt="gpt" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white"></a> 
+    <a href="https://github.com/berkakyildizz?tab=repositories&language=torch" target="_blank"><img alt="torch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"></a> 
+
+    
 </p>
