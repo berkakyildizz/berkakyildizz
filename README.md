@@ -1,45 +1,48 @@
-## Hi there 👋
+# Merhaba, Ben Berk Akyıldız 👋
 
-<!--
-**berkakyildizz/berkakyildizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hakkımda
 
-Here are some ideas to get you started:
+Ben Berk Akyıldız, Endüstri Mühendisiyim ve aynı zamanda tam zamanlı olarak Data Scientist olarak çalışmaktayım. Python, C++, Object Detection, Object Tracking, Data Analysis, ve Machine Learning gibi alanlarda uzmanım. Kariyerim boyunca, veri bilimi ve endüstri mühendisliği alanlarında çeşitli projelerde yer aldım ve bu projelerde yenilikçi çözümler geliştirdim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Uzmanlık Alanlarım
 
-# Merhaba, Ben [Berk Akyıldız] 👋
+- **Python**
+- **C++**
+- **Object Detection**
+- **Object Tracking**
+- **Data Analysis**
+- **Machine Learning**
 
-Ben [İsminiz], [alanınızdaki pozisyonunuz veya uzmanlığınız]. [Alanınızdaki ilgi alanlarınız veya özel çalışmalarınız hakkında kısa bilgi].
+## Projelerim
 
-## Projelerim 🌟
+### [Proje 1: Object Detection Sistemi](https://github.com/kalenmike/project1)
+- **Açıklama**: Gerçek zamanlı nesne tespiti yapabilen bir sistem geliştirdim.
+- **Teknolojiler**: Python, TensorFlow, OpenCV
 
-### [Proje Adı]
-- **Açıklama**: [Proje hakkında kısa açıklama]
-- **Teknolojiler**: [Proje için kullandığınız teknolojiler]
+### [Proje 2: Veri Analizi Platformu](https://github.com/kalenmike/project2)
+- **Açıklama**: Büyük veri setleri üzerinde derinlemesine analizler yapabilen bir platform oluşturduk.
+- **Teknolojiler**: Python, Pandas, Matplotlib
 
-### [Proje Adı]
-- **Açıklama**: [Proje hakkında kısa açıklama]
-- **Teknolojiler**: [Proje için kullandığınız teknolojiler]
+## İlgi Alanlarım
 
-## İlgi Alanlarım 🚀
-- [İlgi alanı 1]
-- [İlgi alanı 2]
-- [İlgi alanı 3]
+- Yenilikçi veri analizi yöntemleri
+- Makine öğrenimi algoritmaları
+- Nesne algılama ve takip sistemleri
+- Programlama dilleri ve yazılım geliştirme
 
-## Bana Ulaşın 📫
-- **Email**: [Email adresiniz]
-- **LinkedIn**: [LinkedIn profilinizin linki]
-- **Twitter**: [Twitter profilinizin linki]
-- **Web Sitesi**: [Kişisel web sitenizin linki]
+## Bana Ulaşın
 
-### Daha Fazlası İçin 📌
-[Eklemek istediğiniz diğer bilgiler veya notlar]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BerkAkyıldız-blue)](https://www.linkedin.com/in/berkakyildiz/)
+[![Twitter](https://img.shields.io/badge/Twitter-@berkakyildiz-blue)](https://twitter.com/berkakyildiz)
+[![Email](https://img.shields.io/badge/Email-berk@example.com-blue)](mailto:berk@example.com)
+[![Website](https://img.shields.io/badge/Website-berkakyildiz.com-blue)](https://berkakyildiz.com)
+
+## Daha Fazlası İçin
+
+[![GitHub](https://img.shields.io/badge/GitHub-BerkAkyıldız-blue)](https://github.com/kalenmike)
+[![Proje Arşivi](https://img.shields.io/badge/Proje%20Arşivi-Projects-blue)](https://github.com/kalenmike?tab=repositories)
+
+---
+
+Sürekli öğrenmeye ve kendimi geliştirmeye olan tutkumla, her zaman yeni projeler ve işbirlikleri için açık olduğumu belirtmek isterim. Daha fazla bilgi almak veya projelerim hakkında detaylı bilgi edinmek isterseniz, lütfen benimle iletişime geçmekten çekinmeyin.
 
