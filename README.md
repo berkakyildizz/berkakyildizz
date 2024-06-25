@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=berkakyildizz" alt="berkakyildizz"/>       
+    <img src="https://img.shields.io/github/followers/berkakyildizz?style=flat&label=Follow" alt="GitHub followers"/>       
     <a href="https://github.com/berkakyildizz/berkakyildizz/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/berkakyildizz/berkakyildizz" /></a>
     <a href="https://github.com/berkakyildizz?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/berkakyildizz?color=4C1&logo=github"></a>
     <a href="https://github.com/berkakyildizz/berkakyildizz" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/berkakyildizz/berkakyildizz?label=Profile%20update&style=flat-square"></a>
