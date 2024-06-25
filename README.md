@@ -22,8 +22,8 @@
 
 </p> 
 <p align="center"> 
-    <a href="https://github.com/berkakyildizz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@milaan9-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/milaanparmar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-milaanparmar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://github.com/berkakyildizz" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/github-berkakyildizz-brightgreen?style=flat-square&logo=GitHub&color=white">
+    <a href="https://www.linkedin.com/in/melih-berk-akyıldız" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-melihberkakyildiz-blue?style=flat&logo=linkedin&logoColor=white&color=blue">
     <a href="https://www.researchgate.net/profile/Milan-Parmar" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-Milaan&#8208;Parmar-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0002-7596-407X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-0000&#8208;0002&#8208;7596&#8208;407X-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
     <a href="https://publons.com/researcher/3190369/milan-parmar" target="_blank"><img alt="publons" src="https://img.shields.io/badge/-Milan Parmar-336699?style=flat-square&logo=PUBLONS&logoColor=white"></a>
