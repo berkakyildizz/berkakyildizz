@@ -6,3 +6,9 @@
     <a href="https://github.com/berkakyildizz?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/berkakyildizz?color=4C1&logo=github"></a>
     <a href="https://github.com/berkakyildizz/berkakyildizz" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/berkakyildizz/berkakyildizz?label=Profile%20update&style=flat-square"></a>
 </p>
+
+<h2 align="center"> Profil Ziyaretçi Sayısı </h2>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=berkakyildizz&color=green" alt="Profil Ziyaretçi Sayısı"/>
+</p>
