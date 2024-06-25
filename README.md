@@ -31,9 +31,18 @@
     <a href="https://github.com/berkakyildizz/93_Python_Data_Analytics_Projects" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>    
     <a href="https://github.com/berkakyildizz?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
     <a href="https://github.com/berkakyildizz?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/berkakyildizz?tab=repositories&language=html" target="_blank"><img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
+    <a href="https://github.com/berkakyildizz?tab=repositories&language=css" target="_blank"><img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
+    <a href="https://github.com/berkakyildizz?tab=repositories&language=js" target="_blank"><img alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"></a>
+    <a href="https://github.com/berkakyildizz?tab=repositories&language=django" target="_blank"><img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></a>
     <a href="https://github.com/berkakyildizz?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a> 
     <a href="https://github.com/berkakyildizz?tab=repositories&language=gpt" target="_blank"><img alt="gpt" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"></a> 
     <a href="https://github.com/berkakyildizz?tab=repositories&language=torch" target="_blank"><img alt="torch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"></a> 
+    <a href="https://github.com/berkakyildizz?tab=repositories&language=aws" target="_blank"><img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"></a> 
+    <a href="https://github.com/berkakyildizz?tab=repositories&language=kuber" target="_blank"><img alt="kuber" src="https://img.shields.io/badge/Kubernetes-3069DE?style=flat-square&logo=kubernetes&logoColor=white"></a> 
+    <a href="https://github.com/berkakyildizz?tab=repositories&language=mongo" target="_blank"><img alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"></a> 
+    <a href="https://github.com/berkakyildizz?tab=repositories&language=mysql" target="_blank"><img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"></a> 
+    <a href="https://github.com/berkakyildizz?tab=repositories&language=conda" target="_blank"><img alt="conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=flat-square&logo=anaconda&logoColor=white"></a> 
 
 </p>
 
