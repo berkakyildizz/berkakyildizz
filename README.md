@@ -1,1 +1,1 @@
-https://badges.pufler.dev/visits/{berkakyildizz}/{repo}
+<!--<a href="https://github.com/berkakyildizz?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/berkakyildizz" alt="Repos"/></a>--> 
