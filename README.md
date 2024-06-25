@@ -14,3 +14,7 @@
 
 ##### NOW
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> I am currently developing object detection and tracking applications. I also develop machine learning applications.
+- 
+#### BIO
+-I am Berk Akyıldız, I am an Industrial Engineer and I also work full-time as a Data Scientist. I specialize in areas such as Python, C++, Object Detection, Object Tracking, Data Analysis, and Machine Learning. Throughout my career, I have participated in various projects in the fields of data science and industrial engineering and developed innovative solutions in these projects.
+
