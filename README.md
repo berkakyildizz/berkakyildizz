@@ -10,5 +10,5 @@
 <h2 align="center"> Profil Ziyaretçi Sayısı </h2>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=berkakyildizz&color=green" alt="Profil Ziyaretçi Sayısı"/>
+    <img src="https://komarev.com/ghpvc/?username=berkakyildizz&color=green" alt=""/>
 </p>
